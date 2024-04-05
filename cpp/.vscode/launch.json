@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ishiyamakenta/development/procon-vscode/cpp",
+      "program": "/Users/ishiyamakenta/development/procon-vscode/cpp/build/a.out",
+      "preLaunchTask": "amebuild"
+    }
+  ]
+}
